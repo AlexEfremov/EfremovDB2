@@ -1,0 +1,5 @@
+CREATE TABLE Employee ( EMPNO int NOT NULL, ENAME varchar (50) NOT NULL, JOB_TITLE varchar (150) NOT NULL ); 
+
+INSERT INTO Employee values (7369,'John Smith', 'Clerk'), (7499,'Joe Allen','Salesman'), (7521,'Mary Lou','Director'),(1234,'Efremov Alexander','Student');
+
+INSERT INTO Employee values (3342,'George Bush','expresident'),(34123,'Vladimir Putin','...');
